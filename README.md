@@ -1,3 +1,5 @@
+![cover](http://i.imgur.com/b70n2BM.jpg)
+
 # Resume / cv
 
 Mobile fast responsive resume template for designer, developer, artist, illustrator and more.... 
@@ -11,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-Added fontawesome, Bootstrap 3.3.7, jQuery
+Added fontawesome, Bootstrap 3.3.7, jQuery, Google fonts & more.....
 ```
 
 ### Installing
