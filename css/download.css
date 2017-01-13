@@ -23,27 +23,27 @@
     color: white;
 }
 .overlay-content a:first-of-type { margin-bottom: 20px }
-.btn-default {
-    font-size: 20px;
-    text-transform: uppercase;
-    font-weight: 700;
-    background: #4b0369;
-    padding: 15px 30px 15px;
-    border-radius: 33px;
-    border: none;
-    width: 100%;
-}
-.overlay-content a:hover,
-.overlay-content a:focus {
-    color: #4b0369;
-    background: #b854e3;
-}
-.overlay .closebtn {
-    position: absolute;
-    top: 20px;
-    right: 45px;
-    font-size: 60px;
-}
+/*.btn-default {*/
+    /*font-size: 20px;*/
+    /*text-transform: uppercase;*/
+    /*font-weight: 700;*/
+    /*background: #4b0369;*/
+    /*padding: 15px 30px 15px;*/
+    /*border-radius: 33px;*/
+    /*border: none;*/
+    /*width: 100%;*/
+/*}*/
+/*.overlay-content a:hover,*/
+/*.overlay-content a:focus {*/
+    /*color: #4b0369;*/
+    /*background: #b854e3;*/
+/*}*/
+/*.overlay .closebtn {*/
+    /*position: absolute;*/
+    /*top: 20px;*/
+    /*right: 45px;*/
+    /*font-size: 60px;*/
+/*}*/
 @media screen and (max-height: 450px) {
     .overlay { overflow-y: auto }
     .overlay .closebtn {

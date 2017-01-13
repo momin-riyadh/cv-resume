@@ -106,22 +106,22 @@ figcaption .visible {
     overflow: hidden;
     height: 40px;
     padding: 0 40px;
-    margin-top: 25px;
+    margin-top: 80px;
 }
 
 figcaption .visible:before {
     content: '<';
     left: 0;
-    line-height: 40px;
-    margin-top: 25px;
+    line-height: 74px;
+    margin-top: 62px;
 }
 
 figcaption .visible:after {
     content: '/>';
     position: absolute;
     right: 0;
-    line-height: 40px;
-    margin-top: 25px;
+    line-height: 74px;
+    margin-top: 62px;
 }
 
 figcaption .visible:after, figcaption .visible:before {
