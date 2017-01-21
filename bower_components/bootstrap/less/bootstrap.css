@@ -3045,25 +3045,25 @@ fieldset[disabled] a.btn {
 .btn-default {
   color: #ffffff;
   background-color: #D33C44;
-  border-color: #ccc;
+  border-color: #c82d35;
 }
 .btn-default:focus,
 .btn-default.focus {
   color: #ffffff;
   background-color: #b32930;
-  border-color: #8c8c8c;
+  border-color: #60161a;
 }
 .btn-default:hover {
   color: #ffffff;
   background-color: #b32930;
-  border-color: #adadad;
+  border-color: #962228;
 }
 .btn-default:active,
 .btn-default.active,
 .open > .dropdown-toggle.btn-default {
   color: #ffffff;
   background-color: #b32930;
-  border-color: #adadad;
+  border-color: #962228;
 }
 .btn-default:active:hover,
 .btn-default.active:hover,
@@ -3076,7 +3076,7 @@ fieldset[disabled] a.btn {
 .open > .dropdown-toggle.btn-default.focus {
   color: #ffffff;
   background-color: #962228;
-  border-color: #8c8c8c;
+  border-color: #60161a;
 }
 .btn-default:active,
 .btn-default.active,
@@ -3093,7 +3093,7 @@ fieldset[disabled] .btn-default:focus,
 .btn-default[disabled].focus,
 fieldset[disabled] .btn-default.focus {
   background-color: #D33C44;
-  border-color: #ccc;
+  border-color: #c82d35;
 }
 .btn-default .badge {
   color: #D33C44;
