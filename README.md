@@ -1,4 +1,6 @@
+
 ![cover](http://i.imgur.com/b70n2BM.jpg)
+
 
 # Resume / cv
 
